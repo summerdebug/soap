@@ -2,7 +2,7 @@
 SOAP service template
 
 ## Build
-Execute maven clean and compile goals
+Execute maven clean and compile goals.
 
 ## Deploy
 Run it as Spring Boot application, for example run main method of Application class in IDE.
