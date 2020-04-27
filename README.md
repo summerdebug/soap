@@ -8,8 +8,8 @@ Execute maven clean and compile goals.
 Run it as Spring Boot application, for example run main method of Application class in IDE.
 
 ## Test
-WSDL URL: http://localhost:8080/ws/countries.wsdl
-Endpoint URL: http://localhost:8080/ws
+WSDL URL: http://localhost:8080/ws/countries.wsdl  
+Endpoint URL: http://localhost:8080/ws  
 Request:
 
 ```xml
