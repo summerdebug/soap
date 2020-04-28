@@ -24,5 +24,6 @@ Request:
  </soapenv:Envelope>
 ```
 
-## Tutorial
-https://www.baeldung.com/spring-boot-soap-web-service
+## Tutorials
+https://www.baeldung.com/spring-boot-soap-web-service  
+https://www.springboottutorial.com/creating-soap-web-service-with-spring-boot-web-services-starter
