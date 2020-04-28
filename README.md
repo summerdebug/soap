@@ -26,4 +26,5 @@ Request:
 
 ## Tutorials
 https://www.baeldung.com/spring-boot-soap-web-service  
-https://www.springboottutorial.com/creating-soap-web-service-with-spring-boot-web-services-starter
+https://www.springboottutorial.com/creating-soap-web-service-with-spring-boot-web-services-starter  
+https://spring.io/guides/gs/consuming-web-service/
